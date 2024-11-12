@@ -1,8 +1,8 @@
 # Projeto_ICD
-**ID de estudante: 15199921, 10291321
-**Nome do estudante: María Carolina Ortiz Cáceres, Guilherme Magre Fernandes 
-**Nome do Projeto: "Análise filogenética a partir de sequências gênicas e modelo de predição de caracteres morfológicos"
-**Dia de início: 01/10/2024
+- ID de estudante: 15199921, 10291321
+- Nome do estudante: María Carolina Ortiz Cáceres, Guilherme Magre Fernandes
+- Nome do Projeto: "Análise filogenética a partir de sequências gênicas e modelo de predição de caracteres morfológicos"
+- Dia de início: 01/10/2024
 
 
 ## Objetivos gerais: 
